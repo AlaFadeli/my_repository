@@ -1,6 +1,5 @@
-# my_repository
 
-```python
+
 import random
 import time
 print('Hello World! Welcome to the game')
@@ -19,4 +18,3 @@ while count!=0:
         print('The number is greater than ', a)
     count=-1
 print (count)
-```
